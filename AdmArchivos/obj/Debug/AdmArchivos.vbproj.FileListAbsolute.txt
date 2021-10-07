@@ -1,0 +1,12 @@
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\bin\Debug\AdmArchivos.exe.config
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\bin\Debug\AdmArchivos.exe
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\bin\Debug\AdmArchivos.pdb
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\bin\Debug\AdmArchivos.xml
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.vbprojAssemblyReference.cache
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.Form1.resources
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.Resources.resources
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.vbproj.GenerateResource.cache
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.vbproj.CoreCompileInputs.cache
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.exe
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.xml
+F:\Max\EnDesarrollo\AdmArchivos\AdmArchivos\obj\Debug\AdmArchivos.pdb
